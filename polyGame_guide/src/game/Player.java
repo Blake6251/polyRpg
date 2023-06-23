@@ -8,6 +8,6 @@ public class Player extends Unit {
 
 	void skill() {
 
-	}
+	} 
 
 }
